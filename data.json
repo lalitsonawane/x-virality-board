@@ -1,0 +1,63 @@
+{
+  "title": "Lombitude · X Virality Board (AI & tech announcements)",
+  "date": null,
+  "timezone": "Asia/Kolkata",
+  "updated": null,
+  "brand_title": "Lombitude · X Virality Board",
+  "brand_handle": "@Lombitude",
+  "hits": [],
+  "virals": [],
+  "outsiders": [],
+  "patterns": [],
+  "no_hits": [],
+  "virals_narrative": "No data yet. The first daily digest will populate this board.",
+  "narrative_synthesis": "No data yet. The first daily digest will populate this board.",
+  "virals_window": "last ~48h",
+  "virals_target": 20,
+  "hits_count": 0,
+  "outsiders_count": 0,
+  "previous_day": null,
+  "leaderboards": {
+    "as_of": null,
+    "tracking_start": null,
+    "days_included": [],
+    "month_days_included": [],
+    "week": {
+      "label": "Rolling week · awaiting first digest",
+      "range": [],
+      "entries": []
+    },
+    "month": {
+      "label": "Month · awaiting first digest",
+      "range": [],
+      "entries": []
+    }
+  },
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026"
+  },
+  "operator": {
+    "handle": "@Lombitude",
+    "name": "Lombitude",
+    "profile_url": "https://x.com/Lombitude"
+  },
+  "ui": {
+    "default_theme": "night"
+  },
+  "day_roster": [],
+  "you_rank": null,
+  "_note": "Empty starter: no scraped data yet. No numbers here are real or example values."
+}

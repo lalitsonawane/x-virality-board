@@ -1,0 +1,8 @@
+board/leaderboard_ledger.json
+__pycache__/
+*.pyc
+.env
+.env.*
+*.cookies
+cookies.txt
+*session*.json

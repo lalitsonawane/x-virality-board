@@ -1,0 +1,6 @@
+{
+  "timezone": "Asia/Kolkata",
+  "min_views": 5000,
+  "star_views": 10000,
+  "accounts": ["OpenAI","AnthropicAI","claudeai","GoogleDeepMind","AIatMeta","OfficialLoganK","testingcatalog","kimmonismus","tomwarren","ArtificialAnlys","karpathy","3blue1brown","theo","emollick","MKBHD"]
+}
